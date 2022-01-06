@@ -1,5 +1,5 @@
 ---
-short_name: furkan
+short_name: furkanerdem
 name: Furkan Erdem
 position: Editör
 ---

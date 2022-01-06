@@ -1,5 +1,5 @@
 ---
-short_name: abdullah
+short_name: abdullahkoroglu
 name: Abdullah Köroğlu
 position: Editör
 ---
