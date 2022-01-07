@@ -1,6 +1,6 @@
 ---
 short_name: abdullahkoroglu
 name: Abdullah Köroğlu
-position: Editör
+position: Altyapı Uzmanı
 ---
-Abdullah Köroğlu
+Bursa, Bilgisayar Mühendisliği, 4. sınıf

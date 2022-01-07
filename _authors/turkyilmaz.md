@@ -1,6 +1,6 @@
 ---
 short_name: furkanturkyilmaz
 name: Furkan Türkyılmaz
-position: Editör
+position: Yazar/Çizer
 ---
-Furkan Türkyılmaz
+Marmara/Şehir, Mimarlik, 3. sınıf

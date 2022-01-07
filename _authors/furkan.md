@@ -1,6 +1,6 @@
 ---
 short_name: furkanerdem
 name: Furkan Erdem
-position: Editör
+position: Yazar
 ---
-Furkan Erdem
+Bilinmiyor?

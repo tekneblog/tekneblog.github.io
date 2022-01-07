@@ -1,6 +1,6 @@
 ---
 short_name: enesdumlu
 name: Enes Dumlu
-position: Editör
+position: Yazar
 ---
-Enes Dumlu
+Boğaziçi, Fizik, 3. sınıf

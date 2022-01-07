@@ -31,10 +31,10 @@ layout: default
   {%- endif -%}
 
   <h2 class="post-list-heading">Yazarlar</h2>
-  <ul class="post-list">
     {% for author in site.authors %}
     <h3>{{ author.name }}</h3>
     {%- assign author_posts = site.posts | where: 'author', author.name -%}
+    <ul class="post-list">
     {% for post in author_posts %}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -49,7 +49,7 @@ layout: default
       {%- endif -%}
     </li>
     {%- endfor -%}
-  </ul>
+    </ul>
   {% endfor %}
 
 </div>
