@@ -7,7 +7,7 @@ tags:
 - YAZI
 - ETİMOLOJİ
 author: Enes Dumlu
-layout: author
+layout: post
 ---
 
 # Yazmak Nedir?
