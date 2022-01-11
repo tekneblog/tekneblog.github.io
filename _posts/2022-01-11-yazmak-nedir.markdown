@@ -1,6 +1,8 @@
 ---
 title: Yazmak Nedir?
 date: 2022-01-11 14:46:00 Z
+categories:
+- YAZMAK
 tags:
 - YAZI
 - ETİMOLOJİ
