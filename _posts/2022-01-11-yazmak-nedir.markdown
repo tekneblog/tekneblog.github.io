@@ -6,7 +6,7 @@ categories:
 tags:
 - YAZI
 - ETİMOLOJİ
-layout: author
+layout: ENES DUMLU
 ---
 
 # Yazmak Nedir?
