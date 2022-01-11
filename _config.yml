@@ -18,6 +18,11 @@ defaults:
     type: authors
   values:
     layout: author
+- scope:
+    path: ""
+    type: posts
+  values:
+    author:
 email: tekne.blog@gmail.com
 description: Tekne üyelerinin bir zeminde buluştuğu yer.
 baseurl: 
