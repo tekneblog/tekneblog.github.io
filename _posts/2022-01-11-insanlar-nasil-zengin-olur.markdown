@@ -4,6 +4,7 @@ date: 2022-01-11 06:02:00 Z
 tags:
 - planlama
 - gündelik
+author: Enes Dumlu
 ---
 
 April 2021
