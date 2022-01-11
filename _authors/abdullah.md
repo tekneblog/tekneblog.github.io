@@ -1,7 +1,6 @@
 ---
 title: Abdullah Köroğlu
 position: 0
-short_name: abdullahkoroglu
 name: Abdullah Köroğlu
 ---
 
