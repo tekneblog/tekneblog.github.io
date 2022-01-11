@@ -8,7 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
-    yazar: author
+    author: author
   uploads:
     title: Uploads
     output: true
