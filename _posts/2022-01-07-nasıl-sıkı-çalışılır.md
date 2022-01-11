@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Nasıl Sıkı Çalışılır?
+date: 2022-01-07 05:14:52 Z
+tags:
+- planlama
+- gündelik
+layout: post
 author: Enes Dumlu
-date: 2022-01-07T05:14:52.900Z
-tags: planlama gündelik
 ---
+
 June 2021\
 \
 It might not seem there's much to learn about how to work hard. Anyone who's been to school knows what it entails, even if they chose not to do it. There are 12 year olds who work amazingly hard. And yet when I ask if I know more about working hard now than when I was in school, the answer is definitely yes.\

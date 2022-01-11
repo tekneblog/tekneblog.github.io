@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Zekanın Ötesinde
+date: 2022-01-07 05:14:11 Z
+tags:
+- psikoloji
+- gündelik
+layout: post
 author: Furkan Türkyılmaz
-date: 2022-01-07T05:14:11.400Z
-tags: psikoloji gündelik
 ---
+
 October 2021\
 \
 If you asked people what was special about Einstein, most would say that he was really smart. Even the ones who tried to give you a more sophisticated-sounding answer would probably think this first. Till a few years ago I would have given the same answer myself. But that wasn't what was special about Einstein. What was special about him was that he had important new ideas. Being very smart was a necessary precondition for having those ideas, but the two are not identical.\

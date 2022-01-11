@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Zevkler ve Renkler Tartışılır Mı?
+date: 2022-01-07 05:11:50 Z
+tags:
+- felsefe
+- gündelik
+layout: post
 author: Furkan Erdem
-date: 2022-01-07T05:11:50.500Z
-tags: felsefe gündelik
 ---
+
 November 2021\
 \
 *(This essay is derived from a talk at the Cambridge Union.)*\

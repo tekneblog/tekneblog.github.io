@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Basitçe Yaz
+date: 2022-01-07 05:16:31 Z
+tags:
+- edebiyat
+- gündelik
+layout: post
 author: Enes Dumlu
-date: 2022-01-07T05:16:31.300Z
-tags: edebiyat gündelik
 ---
+
 March 2021\
 \
 I try to write using ordinary words and simple sentences.\

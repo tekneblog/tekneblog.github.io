@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Çılgın Yeni Fikirler
+date: 2022-01-07 05:15:55 Z
+tags:
+- felsefe
+- gündelik
+layout: post
 author: Furkan Türkyılmaz
-date: 2022-01-07T05:15:55.100Z
-tags: felsefe gündelik
 ---
+
 May 2021\
 \
 There's one kind of opinion I'd be very afraid to express publicly. If someone I knew to be both a domain expert and a reasonable person proposed an idea that sounded preposterous, I'd be very reluctant to say "That will never work."\
