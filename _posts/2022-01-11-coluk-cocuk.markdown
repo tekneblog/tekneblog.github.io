@@ -1,6 +1,7 @@
 ---
 title: Çoluk Çocuk
 date: 2022-01-11 06:13:00 Z
+author: Furkan
 ---
 
 Before I had kids, I was afraid of having kids. Up to that point I felt about kids the way the young Augustine felt about living virtuously. I'd have been sad to think I'd never have children. But did I want them now? No.
