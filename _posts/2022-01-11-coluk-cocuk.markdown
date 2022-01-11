@@ -1,6 +1,9 @@
 ---
 title: Çoluk Çocuk
 date: 2022-01-11 06:13:00 Z
+tags:
+- felsefe
+- gündelik
 author: Abdullah Köroğlu
 ---
 
