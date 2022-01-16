@@ -1,0 +1,7 @@
+---
+title: Ahmed Faruk Arslan
+date: 2022-01-16 14:15:00 Z
+name: Ahmed Faruk Arslan
+---
+
+Behçeşehir Üniversitesi, Uluslararası Ticaret, 3. sınıf
