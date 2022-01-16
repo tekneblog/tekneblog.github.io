@@ -27,3 +27,14 @@ html { overflow-y: scroll; }
     text-decoration: none;
     -webkit-transition: color 0.2s;
   }
+
+  div.badge {
+    background-color: #3cb55b;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 8px;
+    line-height: 10px;
+    padding: 2px 4px;
+}
