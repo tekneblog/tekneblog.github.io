@@ -1,5 +1,9 @@
 html { overflow-y: scroll; }
 
+body {
+    font:400 16px/1.5 Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
 .post-list {
     margin-left: 10px;
 }
