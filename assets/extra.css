@@ -1,6 +1,6 @@
 html { overflow-y: scroll; }
 
-p {
+p, li {
     font:400 16px/1.5 Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
