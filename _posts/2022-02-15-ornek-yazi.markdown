@@ -6,4 +6,4 @@ tags:
 author: Furkan Erdem
 ---
 
-Yazıları, sol taraftaki posts bölümüne girip ekleyebilirsiniz. Yazıyı oluştururken sağdaki tags bölümünden etiket ekleyebilir/seçebilirsiniz.
+Yazıları, siteleaf'e giriş yaptıktan sonra, sol taraftaki posts bölümüne girip ekleyebilirsiniz. Yazıyı oluştururken sağdaki tags bölümünden etiket ekleyebilir/seçebilirsiniz. Ayrıca yazıyı yazdığınız kısmın altındaki author bölümünden isminizi seçmeyi unutmayın.
